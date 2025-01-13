@@ -1,4 +1,7 @@
 # Spider-Ransomware
-Spider Phone Ransomware
+Spider Phone Ransomware (DM me for buy mid8hunter@gmail.com)
 
-https://github.com/user-attachments/assets/5ecaaf2a-b5be-41c5-9d65-98808a482787
+https://github.com/user-attachments/assets/7381d13e-c81b-43ea-adf2-d9016f683e30
+
+
+
