@@ -1,6 +1,7 @@
 # Spider-Ransomware
 
-**Spider Phone Ransomware**  
+Spider Phone Ransomware - Spider Phone Ransomware is a sophisticated malware designed to target mobile devices, particularly iPhones. It locks the device, encrypts files, and demands a ransom for their decryption. The ransomware can also exfiltrate personal data, change the device's PIN, and display threatening messages to pressure victims into paying. Additionally, it may rename files to make recovery more difficult. Available in both online and offline modes, it is a highly effective tool for cybercriminals.
+
 DM me for purchase: [mid8hunter@gmail.com](mailto:mid8hunter@gmail.com)
 
 https://github.com/user-attachments/assets/7381d13e-c81b-43ea-adf2-d9016f683e30
